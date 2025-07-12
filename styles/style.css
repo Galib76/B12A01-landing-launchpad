@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+body {
+    margin: 0px;
+}
+
+nav {
+    background-image: url("/Assets/Hero-bg.png");
+}
+
+.logo {
+    color: #4E47FF;
+    font-size: 34px;
+    font-weight: 900;
+}
+
+.button1 {
+    color: white;
+    background-color: #4E47FF;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 12px 36px;
+    border: none;
+    border-radius: 10px;
+}
+
+.banner1 {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    padding: 50px 150px;
+}
+
+.cool { 
+    color: #252432;
+    font-size: 65px;
+    font-weight: 700;
+    padding-bottom: 37px;
+}
+
+.banner2 {
+    list-style: none;
+    margin: 0px;
+    padding: 158px 267.5px 115px 267.5px;
+    text-align: center;
+}
+
+main {
+    background-color: #F5F8FF;
+}
+
+.divsee {
+    display: flex;
+    justify-content: space-between;
+    padding: 116px 159px 116px 141px;
+    align-items: center;
+}
+
+.main_ul {
+    margin: 0px;
+    list-style: none;
+    width: 517px;
+}
+
+.see {
+    color: #252432;
+    font-weight: 700;
+    font-size: 42px;
+    padding-bottom: 23px;
+}
+
+.explore {
+    color: rgba(37, 36, 50, 0.5);
+    font-weight: 400;
+    font-size: 24px;
+    padding-bottom: 23px;
+}
+
+.img {
+    border-radius: 48px;
+}
+
+.div2h1 {
+    color: #252432;
+    font-weight: bold;
+    font-size: 38;
+    text-align: center;
+    padding: 50px 0 40px 0;
+}
+
+.div21 {
+    color: #4E47FF;
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.div22 {
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.pashe {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 142px 50px 142px;
+}
+
+.div2 {
+    background-color: #E5E7FF;
+    border-radius: 24px;
+    margin: 0 159px 0 141px;
+}
