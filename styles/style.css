@@ -142,6 +142,7 @@ main {
 .pashe2 {
     display: flex;
     justify-content: space-between;
+    gap: 20px;
 }
 
 .card {
@@ -170,3 +171,18 @@ main {
 .img3 {
     border-radius: 9999px;
 }
+
+.ul3 {
+    list-style: none;
+}
+
+.li31 {
+    color: #757575;
+    font-weight: bold;
+}
+
+.li32 {
+    color: #B3B3B3;
+    font-weight: 400;
+}
+
