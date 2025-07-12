@@ -21,6 +21,10 @@ nav {
     background-image: url("../images/Hero-bg.png");
 }
 
+a {
+    text-decoration: none;
+}
+
 .logo {
     color: #4E47FF;
     font-size: 34px;
@@ -35,6 +39,7 @@ nav {
     padding: 12px 36px;
     border: none;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .banner1 {
